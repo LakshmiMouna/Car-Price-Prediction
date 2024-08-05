@@ -28,10 +28,7 @@ Explain how to use the project. Provide examples, screenshots, or demos if appli
 
 If you would like others to contribute to your project, include guidelines on how to do so. Explain the process for submitting bug reports, feature requests, and pull requests.
 
+
 ## Credits
 
-List the main contributors to the project and provide links to their GitHub profiles or websites. Give credit to any third-party libraries, assets, or services used.
-
-## License
-
-Specify the open source license under which your project is released. Common options include MIT, Apache 2.0, and GNU GPL v3.
+This project was developed by [Lakshmi Mouna](https://github.com/LakshmiMouna). Special thanks to the contributors and data sources that made this analysis possible.
