@@ -14,7 +14,6 @@ Give a brief overview of what your project is about and its main purpose or func
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
